@@ -23,4 +23,4 @@ Um aplicativo simples e intuitivo desenvolvido em **React Native** para acompanh
 
 ---
 
-Todos os direitos reservados &copy 2026
+Todos os direitos reservados &copy; 2026
